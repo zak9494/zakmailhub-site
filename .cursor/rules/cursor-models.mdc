@@ -1,0 +1,17 @@
+---
+description: Zak's Cursor model rule (required for every run)
+alwaysApply: true
+---
+
+# Cursor model rule (Zak, Nov 7, 2026)
+
+- Never use a Fast variant of any model. Fast is always off.
+- Composer: repeat or simple jobs only (small copy or style fixes, rules files, running existing tests). Never the final reviewer of a real feature.
+- Grok 4.7 Medium: normal builds and their final QA.
+- Grok 4.7 High: hard builds (tricky bugs, payments, shared code). No need to ask Zak first.
+- Every launch names its model explicitly. Never rely on the account default.
+- Every bot tells Zak which model it is using for each Cursor task.
+- No Opus or Sonnet unless Zak OKs that specific review.
+
+Source of truth: Cursor Build Rules doc
+https://docs.google.com/document/d/1s5KpdzvtjxIcZDjGM3Jr3J5p7quiNdSkcnsFH3M-iDY/edit
